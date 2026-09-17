@@ -55,8 +55,9 @@ Berikut adalah ringkasan temuan utama yang menjadi dasar rekomendasi strategis:
 
 ## 🔗 Live Dashboard & Visualization
 Lihat analisis data lengkap dan visualisasi interaktif melalui Looker Studio dashboard:  
-👉 [Looker Studio Dashboard Link](https://lookerstudio.google.com/) *(ganti tautan ini dengan URL dashboard kamu)*
-
+👉 [Looker Studio Dashboard Link](## 🔗 Live Dashboard & Visualization
+Lihat analisis data lengkap dan visualisasi interaktif melalui Looker Studio dashboard:  
+👉 [Buka Looker Studio Dashboard](https://datastudio.google.com/u/0/reporting/b11918cd-a14f-46dd-95c1-7aa8b96b2e53/page/p_qxfx3ya5xd)
 ---
 
 ## 🛠️ Data & Methodology
